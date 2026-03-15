@@ -15,5 +15,6 @@
 # ---- Add HWIDs below ----
 
 # example (replace with real HWID):
-# a3f8c2d1e9b4f721c8d3e5f6a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0
+c47e549381c2fb615d56513b4145f874d70c84762d52eb71f63a3388c7d965c7
 
+d2b0ac3c48a5641ccfe2fcd2a2b4d0f947b19f378e8514018306395858e0e3cb
