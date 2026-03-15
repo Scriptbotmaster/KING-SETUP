@@ -1,0 +1,19 @@
+# ============================================
+#   KING SETUP — Allowed HWID List
+#   GitHub: https://github.com/Scriptbotmaster/KING-SETUP
+#
+#   Format: one HWID per line (64 hex chars)
+#   Lines starting with # are ignored
+#
+#   How to add a user:
+#   1. User runs KING_SETUP → screen e HWID dekhabe
+#   2. Copy the 64-character HWID below
+#   3. Commit and push to GitHub (main branch)
+#   4. User can now use the tool
+# ============================================
+
+# ---- Add HWIDs below ----
+
+# example (replace with real HWID):
+# a3f8c2d1e9b4f721c8d3e5f6a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0
+
