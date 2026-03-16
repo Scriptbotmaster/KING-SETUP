@@ -1,0 +1,48 @@
+# ================================================================
+# KING SETUP — Allowed HWID List
+# GitHub Repo : https://github.com/Scriptbotmaster/KING-SETUP
+# Branch      : main
+# File        : hwid.txt
+# ================================================================
+#
+# FORMAT RULES:
+#   - একটা line = একটা customer HWID
+#   - # দিয়ে শুরু = comment (ignore হবে)
+#   - Windows এবং Android HWID একসাথে রাখো
+#   - Customer বাতিল করতে = line delete করো
+#
+# ================================================================
+
+
+# ── Android Customers ──────────────────────────────────────────
+
+# Customer: Android Example 1  |  Date: 2024-01-01
+ee09c46fa9768d3d23fb029bcb961cfe2d00ac09222934d92aeffeeca35a0252
+
+# Customer: Android Example 2  |  Date: 2024-01-02
+f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9
+
+
+# ── Windows Customers ──────────────────────────────────────────
+
+# Customer: Windows Example 1  |  Date: 2024-01-03
+1a2b3c4d5e6f1a2b3c4d5e6f1a2b3c4d5e6f1a2b3c4d5e6f1a2b3c4d5e6f1a2b
+
+# Customer: Windows Example 2  |  Date: 2024-01-04
+9f8e7d6c5b4a9f8e7d6c5b4a9f8e7d6c5b4a9f8e7d6c5b4a9f8e7d6c5b4a9f8e
+
+
+# ================================================================
+# HOW TO ADD NEW CUSTOMER:
+#
+# 1. Customer runs get_hwid.py on their device
+# 2. Customer sends you their HWID (64 digit hex)
+# 3. Add a new line below with their HWID
+# 4. Commit and push to GitHub
+# 5. Tool will work on their device within seconds
+#
+# HOW TO REMOVE/BAN CUSTOMER:
+#
+# Simply delete their HWID line and push to GitHub.
+# Their tool will stop working immediately.
+# ================================================================
