@@ -20,7 +20,7 @@
 ee09c46fa9768d3d23fb029bcb961cfe2d00ac09222934d92aeffeeca35a0252
 
 # Customer: Android Example 2  |  Date: 2024-01-02
-f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9
+c47e549381c2fb615d56513b4145f874d70c84762d52eb71f63a3388c7d965c7
 
 
 # ── Windows Customers ──────────────────────────────────────────
